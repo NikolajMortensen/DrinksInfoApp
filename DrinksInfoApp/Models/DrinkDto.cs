@@ -57,6 +57,4 @@ public class DrinkDto
 
     [JsonPropertyName("strIngredient15")]
     public string Ingredient15 { get; set;}
-
-    
 }
